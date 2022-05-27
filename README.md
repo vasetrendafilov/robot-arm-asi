@@ -56,6 +56,6 @@ Goals:
 
 Vase Trendafilov - [@TrendafilovVase](https://twitter.com/TrendafilovVase) - vasetrendafilov@gmail.com
 
-Project forked from gitlab where i worked ot the project: [https://gitlab.com/stefan.zlatinov/robot-arm-asi3](https://gitlab.com/stefan.zlatinov/robot-arm-asi3)
+Project forked from gitlab where i worked on the project: [https://gitlab.com/stefan.zlatinov/robot-arm-asi3](https://gitlab.com/stefan.zlatinov/robot-arm-asi3)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
