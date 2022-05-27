@@ -1,0 +1,19 @@
+Declare Sub d5400_rel_arc_move Lib "dmc5400.dll" 
+   (axis As Integer, rel_pos As Long, rel_cen As Long, ByVal arc_dir As Integer)
+
+圆弧运动函数
+axis 轴号列表；
+rel_pos 相对目标位置（相对于起点）；
+rel_cen 相对圆弧的圆心（相对于起点）；
+arc_dir 圆弧方向(0--表示顺弧，1--表示逆弧)；
+
+例如：
+
+dim axis(1) as integer,targer(1) as long,center(1) as long
+
+   axis(0)=0 : axis(1)=1
+   targer(0)=1000 : targer(1)=0
+   center(0)=targer(0)/2 : center(1)=targer(1)
+ 
+   d5400_rel_arc_move axis(0),targer(0),center(0),0 '
+	

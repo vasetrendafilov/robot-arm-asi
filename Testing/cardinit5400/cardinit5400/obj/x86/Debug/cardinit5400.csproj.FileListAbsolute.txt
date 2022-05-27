@@ -1,0 +1,9 @@
+C:\Users\vase_\Downloads\robot-arm-asi3\Forms C#\cardinit5400\cardinit5400\bin\x86\Debug\cardinit5400.exe
+C:\Users\vase_\Downloads\robot-arm-asi3\Forms C#\cardinit5400\cardinit5400\bin\x86\Debug\cardinit5400.pdb
+C:\Users\vase_\Downloads\robot-arm-asi3\Forms C#\cardinit5400\cardinit5400\obj\x86\Debug\cardinit5400.csproj.AssemblyReference.cache
+C:\Users\vase_\Downloads\robot-arm-asi3\Forms C#\cardinit5400\cardinit5400\obj\x86\Debug\cardinit5400.Form1.resources
+C:\Users\vase_\Downloads\robot-arm-asi3\Forms C#\cardinit5400\cardinit5400\obj\x86\Debug\cardinit5400.Properties.Resources.resources
+C:\Users\vase_\Downloads\robot-arm-asi3\Forms C#\cardinit5400\cardinit5400\obj\x86\Debug\cardinit5400.csproj.GenerateResource.cache
+C:\Users\vase_\Downloads\robot-arm-asi3\Forms C#\cardinit5400\cardinit5400\obj\x86\Debug\cardinit5400.csproj.CoreCompileInputs.cache
+C:\Users\vase_\Downloads\robot-arm-asi3\Forms C#\cardinit5400\cardinit5400\obj\x86\Debug\cardinit5400.exe
+C:\Users\vase_\Downloads\robot-arm-asi3\Forms C#\cardinit5400\cardinit5400\obj\x86\Debug\cardinit5400.pdb

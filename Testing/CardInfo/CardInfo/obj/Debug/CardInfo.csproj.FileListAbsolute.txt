@@ -1,0 +1,9 @@
+C:\Users\vase_\Downloads\CardInfo\CardInfo\bin\Debug\CardInfo.exe
+C:\Users\vase_\Downloads\CardInfo\CardInfo\bin\Debug\CardInfo.pdb
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\Debug\CardInfo.csproj.AssemblyReference.cache
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\Debug\CardInfo.Properties.Resources.resources
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\Debug\CardInfo.csproj.GenerateResource.cache
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\Debug\CardInfo.csproj.CoreCompileInputs.cache
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\Debug\CardInfo.exe
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\Debug\CardInfo.pdb
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\Debug\CardInfo.Form1.resources

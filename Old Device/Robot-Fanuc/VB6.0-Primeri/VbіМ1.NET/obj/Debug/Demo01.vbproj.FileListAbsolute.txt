@@ -1,0 +1,21 @@
+D:\Robot 2008\5.Motion Controllers\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\bin\VbіМ1.exe
+D:\Robot 2008\5.Motion Controllers\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\bin\VbіМ1.pdb
+D:\Robot 2008\5.Motion Controllers\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\bin\VbіМ1.xml
+D:\Robot 2008\5.Motion Controllers\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\Robot 2008\5.Motion Controllers\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.Form1.resources
+D:\Robot 2008\5.Motion Controllers\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\Demo01.vbproj.GenerateResource.Cache
+D:\Robot 2008\5.Motion Controllers\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.exe
+D:\Robot 2008\5.Motion Controllers\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.xml
+D:\Robot 2008\5.Motion Controllers\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.pdb
+D:\Robot 2008\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.exe
+D:\Robot 2008\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.xml
+D:\Robot 2008\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.pdb
+D:\Robot 2008\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\bin\VbіМ1.exe
+D:\Robot 2008\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\bin\VbіМ1.pdb
+D:\Robot 2008\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\bin\VbіМ1.xml
+D:\Robot 2008\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\Robot 2008\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.Form1.resources
+D:\Robot 2008\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\Demo01.vbproj.GenerateResource.Cache
+D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.exe
+D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.xml
+D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\obj\Debug\VbіМ1.pdb

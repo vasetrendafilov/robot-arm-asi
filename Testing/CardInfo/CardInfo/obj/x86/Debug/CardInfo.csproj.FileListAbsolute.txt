@@ -1,0 +1,16 @@
+C:\Users\vase_\Downloads\CardInfo\CardInfo\bin\x86\Debug\CardInfo.exe
+C:\Users\vase_\Downloads\CardInfo\CardInfo\bin\x86\Debug\CardInfo.pdb
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\x86\Debug\CardInfo.Form1.resources
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\x86\Debug\CardInfo.Properties.Resources.resources
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\x86\Debug\CardInfo.csproj.GenerateResource.cache
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\x86\Debug\CardInfo.csproj.CoreCompileInputs.cache
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\x86\Debug\CardInfo.exe
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\x86\Debug\CardInfo.pdb
+C:\Users\vase_\Downloads\CardInfo\CardInfo\obj\x86\Debug\CardInfo.csproj.AssemblyReference.cache
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\CardInfo\CardInfo\obj\x86\Debug\CardInfo.csproj.AssemblyReference.cache
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\CardInfo\CardInfo\obj\x86\Debug\CardInfo.Form1.resources
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\CardInfo\CardInfo\obj\x86\Debug\CardInfo.Properties.Resources.resources
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\CardInfo\CardInfo\obj\x86\Debug\CardInfo.csproj.GenerateResource.cache
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\CardInfo\CardInfo\obj\x86\Debug\CardInfo.csproj.CoreCompileInputs.cache
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\CardInfo\CardInfo\obj\x86\Debug\CardInfo.exe
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\CardInfo\CardInfo\obj\x86\Debug\CardInfo.pdb

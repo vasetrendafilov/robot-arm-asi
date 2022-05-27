@@ -1,0 +1,211 @@
+{
+  "uuid": "ca4b4667765485c2e4511cd591fd1659",
+  "path": "Offline/Motor%20wiring%20with%20DMC5400",
+  "name": "Motor wiring with DMC5400",
+  "content": "",
+  "created_at": "2022-05-27 10:18:09",
+  "updated_at": "2022-05-27 10:33:02",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "50f2a698a1dad28fe4c4532f9dfb0bac",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "9cd6267159f44a728407d3017804bc41": 2,
+        "c3caa3d3ef134e35a9a4c74eb579c26e": 2,
+        "404aa9221ff94de597b8734806e7c74f": 7,
+        "eaa76950fd7343a1953943ee7b9978d3": 2,
+        "a7291ceaee5442a999df26c55c7e675d": 1,
+        "65b1ae295679465fabfb76c1fc7cc7e6": 1,
+        "73bb2bb28fe3404ebab90214db3c033d": 2,
+        "67082a4ee642ac71e2dcdf6758d8dd66": 1,
+        "86f24a232412497baa1ccc8b4cadff62": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Power Supply",
+          1,
+          "BAT-SMD_CR1220-2",
+          "24V",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Q&J",
+            "BOM_Manufacturer Part": "CR1220-2",
+            "BOM_Supplier Part": "C70381",
+            "puuid": "ad4cf9a98ad04c21832cf27a15f0d202",
+            "uuid": "67082a4ee642ac71e2dcdf6758d8dd66"
+          }
+        ],
+        [
+          "Connector",
+          3,
+          "HDR-M-2.54_1X1",
+          "50P,50P,68P",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "CNJM2006WV-2X18P-9T",
+          2,
+          "CONN-TH_CNJM2006WV-2X18P-9T",
+          "CN1,CN2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C881519",
+            "BOM_Manufacturer": "CNJM(九木精密)",
+            "BOM_Manufacturer Part": "CNJM2006WV-2X18P-9T",
+            "puuid": "e64cde88f19a40279cc45ccc45fa6cd0",
+            "uuid": "c3caa3d3ef134e35a9a4c74eb579c26e"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x4",
+          2,
+          "HDR-F-2.54_1X4",
+          "H1,H4",
+          {
+            "BOM_Supplier Part": "C225501",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "21473b495b6340c992965357d5701779",
+            "uuid": "eaa76950fd7343a1953943ee7b9978d3"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          1,
+          "HDR-F-2.54_1X3",
+          "H2",
+          {
+            "BOM_Supplier Part": "C146690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x5",
+          1,
+          "HDR-F-2.54_1X5",
+          "H3",
+          {
+            "BOM_Supplier Part": "C50950",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4bb67b2ac49a4595b3ed10b792fcbebb",
+            "uuid": "65b1ae295679465fabfb76c1fc7cc7e6"
+          }
+        ],
+        [
+          "Encoder",
+          2,
+          "HDR-M-2.54_1X1",
+          "J1,J2",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "PE",
+          1,
+          "HDR-M-2.54_1X1",
+          "J3",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "DMC5400",
+          1,
+          "HDR-M-2.54_1X1",
+          "J4",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "A2005WV-N-2X13P_C2897444",
+          2,
+          "CONN-TH_A2005WV-N-2X13P",
+          "U1,U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2897444",
+            "BOM_Manufacturer": "CJT(长江连接器)",
+            "BOM_Manufacturer Part": "A2005WV-N-2X13P",
+            "puuid": "eae12d46a8e948af9549f017cdbbd682",
+            "uuid": "9cd6267159f44a728407d3017804bc41"
+          }
+        ],
+        [
+          "RESETTABLEFUSE-500MA",
+          2,
+          "FUSE-TH-L12.5-W2.0-P5.00-D0.8",
+          "U4,U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900007669",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "ResettableFuse-500mA",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "4ffb965bb1b34cbb950f3ec2c81b8429",
+            "uuid": "73bb2bb28fe3404ebab90214db3c033d"
+          }
+        ],
+        [
+          "Outlet",
+          1,
+          "PX0675PC",
+          "WALL",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "86f24a232412497baa1ccc8b4cadff62"
+          }
+        ]
+      ],
+      "updateTime": 1653640382,
+      "createTime": 1653639490,
+      "histories": [],
+      "created_at": "2022-05-27 10:18:10",
+      "updated_at": "2022-05-27 10:33:02"
+    }
+  ],
+  "sort": [],
+  "title": "Motor wiring with DMC5400",
+  "foldername": "Motor wiring with DMC5400",
+  "schfilename": "Motor wiring with DMC5400.json",
+  "schfilemtime": 1653640382467
+}

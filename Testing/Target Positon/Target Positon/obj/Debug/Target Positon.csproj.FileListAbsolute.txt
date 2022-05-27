@@ -1,0 +1,8 @@
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\Target Positon\Target Positon\bin\Debug\Target Positon.exe
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\Target Positon\Target Positon\bin\Debug\Target Positon.pdb
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\Target Positon\Target Positon\obj\Debug\Target Positon.csproj.AssemblyReference.cache
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\Target Positon\Target Positon\obj\Debug\Target_Positon.Properties.Resources.resources
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\Target Positon\Target Positon\obj\Debug\Target Positon.csproj.GenerateResource.cache
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\Target Positon\Target Positon\obj\Debug\Target Positon.csproj.CoreCompileInputs.cache
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\Target Positon\Target Positon\obj\Debug\Target Positon.exe
+C:\Users\vase_\Downloads\robot-arm-asi3\Testing\Target Positon\Target Positon\obj\Debug\Target Positon.pdb

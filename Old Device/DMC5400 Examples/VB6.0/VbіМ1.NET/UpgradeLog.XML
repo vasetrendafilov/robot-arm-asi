@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Demo01">
+</Property><Property Name="Solution File" Value="D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Demo01.sln">
+</Property><Property Name="User Options File" Value="D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Demo01.suo">
+</Property><Property Name="Date" Value="недела, 11 март 2012">
+</Property><Property Name="Time" Value="08:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Demo01.sln" Description="File successfully backed up as D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Backup\Demo01.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Demo01.suo" Description="File successfully backed up as D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Backup\Demo01.suo">
+</Event><Event ErrorLevel="0" Project="Demo01" Source="Demo01.vbproj" Description="Project file successfully backed up as D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Backup\Demo01.vbproj">
+</Event><Event ErrorLevel="0" Project="Demo01" Source="Demo01.vbproj.user" Description="Project user file successfully backed up as D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Backup\Demo01.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Demo01" Source="AssemblyInfo.vb" Description="File successfully backed up as D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Demo01" Source="Demo01.Designer.vb" Description="File successfully backed up as D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Backup\Demo01.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Demo01" Source="Demo01.vb" Description="File successfully backed up as D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Backup\Demo01.vb">
+</Event><Event ErrorLevel="0" Project="Demo01" Source="DMC5400.vb" Description="File successfully backed up as D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Backup\DMC5400.vb">
+</Event><Event ErrorLevel="0" Project="Demo01" Source="_UpgradeReport.htm" Description="File successfully backed up as D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Backup\_UpgradeReport.htm">
+</Event><Event ErrorLevel="0" Project="Demo01" Source="Demo01.resX" Description="File successfully backed up as D:\Robotika\DMC5400 Examples\VB6.0\Demo_1\VbіМ1.NET\Backup\Demo01.resX">
+</Event><Event ErrorLevel="1" Project="Demo01" Source="Demo01.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Demo01" Source="Demo01.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Demo01" Source="Demo01.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Demo01.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Demo01.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Demo01" Source="Demo01.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
